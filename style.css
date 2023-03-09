@@ -1,0 +1,15 @@
+#myDIV {background-color: red;
+text-align: center;
+padding: 17px 10px;
+font-size: medium;
+
+}
+#myInput {
+    padding: 7px 70px;
+    text-align: left;
+    font-size: medium;
+
+}
+.button {
+    padding: 90px 7px;
+}
